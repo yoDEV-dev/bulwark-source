@@ -17,7 +17,7 @@ describes the change.
 
 | Release | Upstream base | Running on webmail.yodev.dev since |
 |---|---|---|
-| `v1.21.3-yodev-f2a59cd` | 1.21.3 | not yet |
+| `v1.21.3-yodev-f2a59cd` | 1.21.3 | 2026-11-25 |
 
 ## License
 
